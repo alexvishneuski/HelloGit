@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Some changes in branch develop
         //First feature improvement
+        //Second feature improvement: сonflict before merge is simulated in this line
     }
 }
