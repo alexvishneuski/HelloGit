@@ -2,7 +2,6 @@ package com.github.alexvishneuski.hellogit;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Commit #1 in an yet separate branch before rebase
-    }
+        //Commit #2 in develop branch before rebase
+        }
 }
