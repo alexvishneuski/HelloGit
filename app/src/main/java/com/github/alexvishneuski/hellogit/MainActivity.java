@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Some changes in branch develop
-        //Second feature improvement
+        //Second feature improvement: сonflict before merge is simulated in this line
     }
 }
